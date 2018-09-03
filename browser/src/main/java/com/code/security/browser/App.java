@@ -1,4 +1,4 @@
-package com.code;
+package com.code.security.browser;
 
 /**
  * Hello world!
